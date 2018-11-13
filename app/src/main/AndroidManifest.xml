@@ -18,7 +18,13 @@
         </activity>
         <activity android:name=".HomePage" />
         <activity android:name=".SearchHP" />
-        <activity android:name=".Terminal1"></activity>
+        <activity android:name=".searchTermCab" />
+        <activity android:name=".searchTermLao" />
+        <activity android:name=".searchTermBal" />
+        <activity android:name=".searchTermSta" />
+        <activity android:name=".searchTermTagaytay" />
+        <activity android:name=".searchTermTalugtug" />
+        <activity android:name=".searchTermLegazpi"></activity>
     </application>
 
 </manifest>
