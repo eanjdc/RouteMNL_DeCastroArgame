@@ -69,6 +69,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
+                android:onClick="display"
                 android:text="JOY BUS - Cubao"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />

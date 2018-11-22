@@ -46,7 +46,7 @@
     <ScrollView
         android:id="@+id/scrollView2"
         android:layout_width="373dp"
-        android:layout_height="140dp"
+        android:layout_height="223dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -69,6 +69,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
+                android:onClick="displayJamBuendia"
                 android:text="JAM Liner Inc. - BUENDIA"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />
@@ -78,9 +79,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
+                android:onClick="displayJamKamuning"
                 android:text="JAM Liner Inc. - KAMUNING"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />
+
+            <Button
+                android:id="@+id/jamPasay"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="left|center_vertical"
+                android:onClick="displayJamPasay"
+                android:text="JAM Liner Inc. - PASAY"
+                tools:layout_editor_absoluteX="6dp"
+                tools:layout_editor_absoluteY="237dp" />
+
         </LinearLayout>
     </ScrollView>
 

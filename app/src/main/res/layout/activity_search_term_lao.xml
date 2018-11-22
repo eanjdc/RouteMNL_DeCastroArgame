@@ -68,6 +68,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
+                android:onClick="displayPartasCub"
                 android:text="PARTAS - Cubao"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />
@@ -77,6 +78,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
+                android:onClick="displayPartasPasay"
                 android:text="PARTAS - Pasay"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />
@@ -86,7 +88,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
-                android:text="PARTAS - LaonLaaam"
+                android:onClick="displayPartasLaonlaan"
+                android:text="PARTAS - LaonLaaan"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />
 
@@ -95,6 +98,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
+                android:onClick="displayGv"
                 android:text="GV FLORIDEA TRANSPORT"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />
@@ -104,6 +108,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:gravity="left|center_vertical"
+                android:onClick="displayFarinas"
                 android:text="FARINAS TRANS"
                 tools:layout_editor_absoluteX="6dp"
                 tools:layout_editor_absoluteY="237dp" />

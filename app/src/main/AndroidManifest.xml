@@ -24,7 +24,22 @@
         <activity android:name=".searchTermSta" />
         <activity android:name=".searchTermTagaytay" />
         <activity android:name=".searchTermTalugtug" />
-        <activity android:name=".searchTermLegazpi"></activity>
+        <activity android:name=".searchTermLegazpi" />
+        <activity android:name=".partasCubao" />
+        <activity android:name=".partasLaonlaan" />
+        <activity android:name=".joyCubao" />
+        <activity android:name=".jamBuendia" />
+        <activity android:name=".jamKamuning" />
+        <activity android:name=".partasPasay" />
+        <activity android:name=".farinasLacson" />
+        <activity android:name=".gvLacson" />
+        <activity android:name=".superlinesCubao" />
+        <activity android:name=".dltbCubao" />
+        <activity android:name=".dltbBuendia" />
+        <activity android:name=".dltbPasay" />
+        <activity android:name=".philCubao" />
+        <activity android:name=".philPasay" />
+        <activity android:name=".fivestarCubao"></activity>
     </application>
 
 </manifest>
