@@ -12,4 +12,12 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="MatchSpinnerStyle" parent="android:style/Widget.ListView.DropDown">
+        <item name="android:divider">#F5F091</item>
+        <item name="android:dividerHeight">1dp</item>
+    </style>
+
+    <style name="MatchSpinnerTheme" parent="AppTheme">
+        <item name="android:dropDownListViewStyle">@style/MatchSpinnerStyle</item>
+    </style>
 </resources>
