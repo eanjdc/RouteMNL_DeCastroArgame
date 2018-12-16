@@ -17,7 +17,7 @@ import java.util.List;
 public class SearchHP extends AppCompatActivity {
 
     Spinner dropdownmenu;
-    String[] SPINNERVALUES = {"Cabuyao, Laguna", "Laoag, Ilocos Norte", "Baler, Aurora", "Legazpi, Albay", "Sta. Elena, Camarines Norte", "Talugtug, Nueva Ecija", "Tagaytay City"};
+    String[] SPINNERVALUES = {"Where are we going today?","Cabuyao, Laguna", "Laoag, Ilocos Norte", "Baler, Aurora", "Legazpi, Albay", "Sta. Elena, Camarines Norte", "Talugtug, Nueva Ecija", "Tagaytay City"};
     String SpinnerValue;
     Button GOTO;
     Intent intent;
